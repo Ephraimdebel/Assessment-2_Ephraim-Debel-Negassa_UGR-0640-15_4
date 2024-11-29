@@ -369,11 +369,9 @@ a.red:hover {
 
 /* Header */
 .header {
-  background-image: url("../images/header_bg.jpg") ;
-  background-repeat: no-repeat;
-  background-position: contain;
-  background-size: cover;
-  
+  background-color: #252B25; /* Replaced background image with black */
+  color: #fff; /* Ensure text is visible */
+  padding: 20px 0; /* Adjust padding if needed */
 }
 .header .logo h1 small:hover {
   color: #db7835; /* Hover effect for the slogan */
