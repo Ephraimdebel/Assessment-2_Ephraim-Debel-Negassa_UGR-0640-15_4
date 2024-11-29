@@ -75,7 +75,7 @@ a.red {
 
 /* header */
 .header {
-  background: url(../images/header_bg.jpg);
+  background: url("../images/header_bg.jpg");
   background-repeat: no-repeat;
   background-position: contain;
   background-size: cover;
